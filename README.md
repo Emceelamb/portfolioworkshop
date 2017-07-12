@@ -4,6 +4,8 @@ This workshop introduces the components of an effectie portfolio website, and we
 
 Google Slideshow: https://docs.google.com/presentation/d/1RF0SaShognagiieL-Kak8bbAyiwagRoYAl9buxPffHM/edit?usp=sharing
 
+What we will be making: sandbox.markofthelam.com/portfolioworkshop
+
 What you will need:
 - Code Editor (Preferably Atom with Live Server)
 - Skeleton CSS
