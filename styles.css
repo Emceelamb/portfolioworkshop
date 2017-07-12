@@ -28,6 +28,8 @@
     color: gray;
 }
 
+/* CSS Transitions for project */
+
 .project-container {
   overflow: hidden;
   position: relative;
