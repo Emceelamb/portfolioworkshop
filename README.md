@@ -10,9 +10,9 @@ What we will be making: sandbox.markofthelam.com/portfolioworkshop
 
 What you will need:
 - Code Editor (Preferably Atom with Live Server)
-- Skeleton CSS
+- Skeleton CSS (http://getskeleton.com/)
 - Working images
-- Google Chrome
+- Google Chrome or Mozilla Firefox 
 
 Topics to cover:
 - Code Editor
